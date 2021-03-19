@@ -1,0 +1,43 @@
+/**This is for index Page**/
+html{
+
+}
+
+body{
+	background-color: blue;
+	margin: 0;
+	padding: 0;
+	font-family: sans-serif;
+}
+
+.home{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.login{
+	padding: 10px;
+	text-decoration: none;
+	border: none;
+}
+
+.signup{
+	padding: 10px;
+	text-decoration: none;
+	border: none;
+}
+
+/**This is for home Page**/
+
+.btn{
+padding: 20px;
+margin: 20px;
+}
+
+.btn button{
+margin: 20px;
+	height: 50px;
+	width: 120px;
+}
